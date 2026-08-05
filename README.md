@@ -17,55 +17,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Qualidade (QA)** focada na prevenção de falhas, análise de requisitos e validações funcionais de software. 
+Sou **Analista de Qualidade (QA)** focada na prevenção de falhas, análise de requisitos e validações funcionais de software.
 
-Minha trajetória traz um diferencial estratégico: **vasta experiência em padronização de processos, Instruções de Trabalho (ITs), 5S, Normas da Qualidade, BPMN e ferramentas de SGQ (SoftExpert/Bizagi)**. Essa bagagem me dá uma visão analítica apurada para estruturar regras de negócio complexas, mapear fluxos e garantir que a entrega final cumpra rigorosos padrões de excelência.
+Minha trajetória traz um diferencial de liderança, comunicação e inovação: unindo a **vasta experiência em padronização de processos (SGQ, ITs, 5S e ferramentas como SoftExpert/Bizagi)** às minhas formações em **Gestão Estratégica de Pessoas** e **Marketing**. Essa bagagem interdisciplinar potencializa minha **criatividade** para desenhar cenários de testes complexos e "fora da caixa", além de me dar uma forte capacidade de relacionamento interpessoal. Sou o elo que facilita a comunicação assertiva entre desenvolvedores e áreas de negócio, sempre com foco em empatia e na melhor experiência para o usuário final.
 
-* 🏆 **Hackathons:** Premiada em 1º e 2º lugar em maratonas de inovação e tecnologia.
-* 🎯 **Foco Principal:** Testes Funcionais, Regras de Negócio, BDD e Processos da Qualidade (SGQ).
-* ⚡ **Diferencial:** Mapeamento de Processos (BPMN), Documentação Técnica impecável (ITs/POPs) e cultura 5S/ISO.
-* 🧪 **Em evolução:** Validações manuais de API (Postman) e automação de apoio com Cypress.
-
----
-
-## 🏆 Conquistas & Hackathons
-
-- 🥇 **1º Lugar em Hackathon:** Atuação como QA focada na validação ágil de requisitos, testes de fluxos críticos de MVP e garantia da usabilidade (UX) sob forte restrição de tempo.
-- 🥈 **2º Lugar em Hackathon:** Mapeamento de cenários de teste, identificação de falhas em tempo recorde e alinhamento de regras de negócio em equipe multifuncional.
-
----
-
-## 🛠️ Tech Stack & Competências
-
-### 🎯 Garantia de Qualidade, Governança & Processos
-| Categoria | Competências & Ferramentas |
-| :--- | :--- |
-| **Testes de Software** | Testes Funcionais, Exploratórios, Regressão, Fumaça, Usabilidade (UX), Sanidade |
-| **Governança & Qualidade (SGQ)** | SoftExpert Suite (BPM/ECM), Normas ISO, Instruções de Trabalho (ITs), POPs, 5S |
-| **Modelagem & BDD** | Bizagi Modeler, Mapeamento de Processos (BPMN), BDD (Gherkin), Matriz de Rastreabilidade |
-| **Gestão de Bugs & Projetos** | Jira, Trello, Redmine, Confluence, Azure DevOps |
-
-### 💻 Ferramentas de Apoio & Plataformas
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Redmine](https://img.shields.io/badge/Redmine-B20000?style=flat-square&logo=redmine&logoColor=white)
-![Bizagi](https://img.shields.io/badge/Bizagi-004B87?style=flat-square&logoColor=white)
-![SoftExpert](https://img.shields.io/badge/SoftExpert-005A9C?style=flat-square&logoColor=white)
-
----
-## 📊 Portfólio de Testes & Casos de Estudo
-
-▼ 📁 **1. Gestão e Manutenção de Acervo Documental**
-* **Descrição:** Governança documental, controle de temporalidade e aplicação da metodologia 5S para evitar documentos obsoletos (ITs e POPs).
-* **Artefatos:** Matriz de temporalidade, checklist de revisão e ciclo de vida de documentos.
-* **Link do Projeto:** [Acessar Pasta do Projeto (Docs)](./docs)
-
-▼ 🔍 **2. Estruturação de Processos & Documentação de Testes**
-* **Descrição:** Mapeamento completo de requisitos, cenários BDD em Gherkin e planos de testes funcionais.
-* **Artefatos:** Plano de Testes, Matriz de Rastreabilidade e Suíte de Cenários.
-* **Link do Projeto:** [Acessar Pasta de Testes](./testes)
+- 🏆 **Hackathons:** Premiada em 1º e 2º lugar em maratonas de inovação e tecnologia corporativas na Benner (Saúde Digital).
+- 🎯 **Foco Principal:** Testes Funcionais, Regras de Negócio, BDD e Processos da Qualidade (SGQ).
+- 💡 **Diferencial Psicológico/Criativo:** Mentalidade analítica aliada à criatividade para testes destrutivos e exploração de cenários alternativos complexos.
+- ⚡ **Soft Skills:** Comunicação clara, resolução de conflitos, liderança colaborativa e facilidade de relacionamento com pessoas.
+- 🧪 **Em evolução:** Validações manuais de API (Postman) e automação de apoio com Cypress.
 
