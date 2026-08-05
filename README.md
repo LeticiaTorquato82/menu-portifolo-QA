@@ -21,9 +21,17 @@ Sou **Analista de Qualidade (QA)** focada na prevenção de falhas, análise de 
 
 Minha trajetória traz um diferencial estratégico: **vasta experiência em padronização de processos, Instruções de Trabalho (ITs), 5S e Normas da Qualidade**. Essa bagagem me dá uma visão analítica apurada para estruturar regras de negócio complexas, mapear fluxos e garantir que a entrega final cumpra rigorosos padrões de excelência.
 
+* 🏆 **Hackathons:** Premiada em 1º e 2º lugar em maratonas de inovação e tecnologia.
 * 🎯 **Foco Principal:** Testes Funcionais, Regras de Negócio, BDD e Processos de Qualidade.
 * ⚡ **Diferencial:** Documentação Técnica impecável (ITs/POPs) e cultura de melhoria contínua (5S / ISO).
 * 🧪 **Em evolução:** Validações manuais de API (Postman) e automação de apoio com Cypress.
+
+---
+
+## 🏆 Conquistas & Hackathons
+
+- 🥇 **1º Lugar em Hackathon:** Atuação como QA focada na validação ágil de requisitos, testes de fluxos críticos de MVP e garantia da usabilidade (UX) sob forte restrição de tempo.
+- 🥈 **2º Lugar em Hackathon:** Mapeamento de cenários de teste, identificação de falhas em tempo recorde e alinhamento de regras de negócio em equipe multifuncional.
 
 ---
 
@@ -35,14 +43,9 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 | **Testes de Software** | Testes Funcionais, Exploratórios, Regressão, Fumaça, Usabilidade (UX), Sanidade |
 | **Documentação Técnica** | Planos de Teste, Instruções de Trabalho (ITs), POPs, Mapeamento de Processos, 5S |
 | **Metodologias & BDD** | BDD (Gherkin), Scrum, Kanban, Matriz de Rastreabilidade, Regras de Negócio |
-| **Gestão de Bugs** | Jira, Confluence, Trello, Azure DevOps *(Ajuste conforme usa)* |
+| **Gestão de Bugs** | Jira, Confluence, Trello, Azure DevOps |
 
 ### 💻 Ferramentas de Apoio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Git](
----
-
-## 🏆 Conquistas & Destaques
-
-- 🥇 **2x Campeã de Hackathon:** Conquista do 1º lugar em duas maratonas de inovação e desenvolvimento, atuando diretamente na **garantia de qualidade, validação de requisitos, usabilidade (UX) e apresentação de produto**.
