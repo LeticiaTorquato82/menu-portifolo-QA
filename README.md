@@ -138,6 +138,24 @@ Padronização de processos, auditorias internas e gestão de não conformidades
 
 <br/>
 
+## 🎓 Certificações & Formação
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-2FE6C4?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%209001-Certificado-0F2027?style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%2014001-Certificado-0F2027?style=for-the-badge&logo=iso&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Engenharia%20da%20Qualidade-Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Marketing-Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Gest%C3%A3o%20Estrat%C3%A9gica%20de%20Pessoas-Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Gerenciamento%20de%20Projetos-P%C3%B3s--Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+</div>
+
+<br/>
+
 ## 📊 Portfólio de Projetos & Casos Práticos
 
 <div align="center">
