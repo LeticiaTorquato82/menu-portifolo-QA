@@ -19,7 +19,6 @@ graph TD
     B --> C[3. Padronização e Normatização]
     C --> D[4. Ciclo de Revisão Contínua]
 ```
-
 1. **Diagnóstico e Auditoria:** Mapeamento completo do acervo atual e identificação de gargalos.
 2. **Higienização do Acervo:** Descarte seguro e em conformidade legal de documentos obsoletos.
 3. **Padronização e Normatização:** Criação de templates e regras de nomenclatura claras.
