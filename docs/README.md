@@ -30,4 +30,4 @@ graph TD
 Nesta pasta você encontra as ferramentas práticas desenvolvidas para este modelo de governança:
 
 * ⏳ **[Tabela de Temporalidade Documental](tabela-temporalidade.md):** Prazos de guarda e destinação final de cada tipo de arquivo.
-* 📋 **[Checklist de Auditoria](./checklist-auditoria.md):** Modelo operacional para validar a conformidade de novos documentos.
+* 📋 **[Checklist de Auditoria](checklist-auditoria.md):** Modelo operacional para validar a conformidade de novos documentos.
