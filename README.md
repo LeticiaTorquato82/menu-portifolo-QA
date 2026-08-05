@@ -82,14 +82,4 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 
 ---
 
-## 📊 Métrica de Atividades
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marchalek23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  ├── .github/               # Templates de Issues e Pull Requests
-├── docs/                  # Guias, políticas e diagnósticos detalhados
-├── templates/             # Modelos de documentos prontos para uso
-├── scripts/               # (Opcional) Automações ou planilhas de controle
-├── LICENSE                # Licença do projeto (ex: MIT)
-└── README.md              # O guia principal (que você já tem)
 
