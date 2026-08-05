@@ -77,8 +77,8 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 
 * **Descrição:** Mapeamento completo de requisitos, cenários BDD em Gherkin e planos de testes funcionais.
 * **Artefatos:** Plano de Testes, Matriz de Rastreabilidade e Suíte de Cenários.
-* **Link:** `[Adicione o link do seu repositório de e-commerce aqui quando criar]`
-</details>
+* **Link:** [Acessar Projeto de Governança Documental](https://github.com)
+
 
 ---
 
