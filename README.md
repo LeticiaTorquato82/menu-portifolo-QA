@@ -32,7 +32,7 @@ Meu diferencial combina **Engenharia da Qualidade**, certificação **Green Belt
 *   **Testes:** Funcionais, Exploratórios, Regressão, Fumaça, Usabilidade, Sanidade.
 *   **Governança & Engenharia:** Lean Seis Sigma (Green Belt), ISO, 5S, Gestão de Projetos.
 *   **Sistemas & Modelagem:** SoftExpert, Bizagi, BPMN, BDD (Gherkin).
-*   **Gestão de Bugs/Projetos:** Jira, Trello, Redmine, Confluence, Azure DevOps.
+*   **Gestão de Bugs/Projetos:** Jira, Trello, Redmine, Confluence.
 
 ### 💻 Ferramentas
 Postman • Cypress • Git • GitHub
