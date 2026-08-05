@@ -17,13 +17,14 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Qualidade (QA)** focada na prevenção de falhas, análise de requisitos e validações funcionais de software.
+Sou **Analista de Qualidade (QA)** focada na prevenção de falhas, análise de requisitos e validações funcionais de software com sólida bagagem em engenharia de processos.
 
-Minha trajetória traz um diferencial de liderança, comunicação e inovação: unindo a **vasta experiência em padronização de processos (SGQ, ITs, 5S e ferramentas como SoftExpert/Bizagi)** às minhas formações em **Gestão Estratégica de Pessoas** e **Marketing**. Essa bagagem interdisciplinar potencializa minha **criatividade** para desenhar cenários de testes complexos e "fora da caixa", além de me dar uma forte capacidade de relacionamento interpessoal. Sou o elo que facilita a comunicação assertiva entre desenvolvedores e áreas de negócio, sempre com foco em empatia e na melhor experiência para o usuário final.
+Meu grande diferencial competitivo está na intersecção entre a tecnologia e a excelência operacional: sou especialista em **Engenharia da Qualidade e Produtividade**, certificada **Green Belt (Lean Seis Sigma)** e atualmente me especializando em **Gerenciamento de Projetos**. 
+
+Unindo essa sólida base analítica e estatística às minhas formações em **Gestão Estratégica de Pessoas** e **Marketing**, desenvolvi uma forte **criatividade** para desenhar cenários de testes complexos e uma liderança natural. Possuo vasta experiência prática com ferramentas de SGQ corporativo (SoftExpert/Bizagi), cultura 5S e normas ISO, atuando como o elo perfeito de comunicação assertiva entre engenharia de software e objetivos de negócio.
 
 - 🏆 **Hackathons:** Premiada em 1º e 2º lugar em maratonas de inovação e tecnologia corporativas na Benner (Saúde Digital).
-- 🎯 **Foco Principal:** Testes Funcionais, Regras de Negócio, BDD e Processos da Qualidade (SGQ).
-- 💡 **Diferencial Psicológico/Criativo:** Mentalidade analítica aliada à criatividade para testes destrutivos e exploração de cenários alternativos complexos.
-- ⚡ **Soft Skills:** Comunicação clara, resolução de conflitos, liderança colaborativa e facilidade de relacionamento com pessoas.
-- 🧪 **Em evolução:** Validações manuais de API (Postman) e automação de apoio com Cypress.
+- 🎯 **Foco Principal:** Testes Funcionais, Regras de Negócio, Metodologias Ágeis, Engenharia e Processos da Qualidade (SGQ).
+- 💡 **Diferencial Analítico:** Aplicação de conceitos Lean e Seis Sigma (Green Belt) para otimização de fluxos de testes e eliminação de desperdícios no ciclo de desenvolvimento.
+- ⚡ **Soft Skills:** Liderança colaborativa, comunicação clara, facilidade de relacionamento interpessoal e gerenciamento de conflitos.
 
