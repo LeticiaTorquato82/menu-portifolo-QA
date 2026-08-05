@@ -48,4 +48,49 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 ### 💻 Ferramentas de Apoio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Git](
+### 💻 Ferramentas de Apoio
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 📑 Portfólio de Testes & Casos de Estudo
+
+<details>
+<summary>📁 <b>1. Gestão e Manutenção de Acervo Documental (Clique para expandir)</b></summary>
+
+<br />
+
+* **Descrição:** Governança documental, controle de temporalidade e aplicação da metodologia 5S para evitar documentos obsoletos (ITs e POPs).
+* **Artefatos:** Matriz de temporalidade, checklist de revisão e ciclo de vida de documentos.
+* **Link:** https://github.com/Marchalek23/gestao-acervo-documental
+</details>
+
+<details>
+<summary>🔍 <b>2. Estruturação de Processos & Documentação de Testes (Clique para expandir)</b></summary>
+
+<br />
+
+* **Descrição:** Mapeamento completo de requisitos, cenários BDD em Gherkin e planos de testes funcionais.
+* **Artefatos:** Plano de Testes, Matriz de Rastreabilidade e Suíte de Cenários.
+* **Link:** `[Adicione o link do projeto de e-commerce aqui quando criar]`
+</details>
+
+---
+
+## 📊 Métrica de Atividades
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marchalek23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</div>
+
+---
+
+<div align="center">
+
+  🤝 **Vamos conversar sobre QA, Processos ou Novas Oportunidades?** Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/leticia-t-3566b9179/)!
+
+</div>
