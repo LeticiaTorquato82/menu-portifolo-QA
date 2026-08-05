@@ -1,17 +1,8 @@
+# 👋 Olá, eu sou a Letícia!
 
+### 🧪 QA Analyst | Software Quality, Process Excellence & SGQ
 
-
-  # 👋 Olá, eu sou a Letícia!
-  ### 🧪 QA Analyst | Software Quality, Process Excellence & SGQ
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-t-3566b9179/)
-  [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
-
-  <br />
-
-  > *"Qualidade não é um ato, é um hábito. Unindo a precisão dos testes funcionais com o rigor da padronização de processos e governança."*
-
-</div>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com) [![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
 
 ---
 
@@ -19,12 +10,37 @@
 
 Sou **Analista de Qualidade (QA)** focada na prevenção de falhas, análise de requisitos e validações funcionais de software com sólida bagagem em engenharia de processos.
 
-Meu grande diferencial competitivo está na intersecção entre a tecnologia e a excelência operacional: sou especialista em **Engenharia da Qualidade e Produtividade**, certificada **Green Belt (Lean Seis Sigma)** e atualmente me especializando em **Gerenciamento de Projetos**. 
+Meu diferencial combina **Engenharia da Qualidade**, certificação **Green Belt (Lean Seis Sigma)**, gestão de projetos, pessoas e marketing. Experiência robusta em SGQ (SoftExpert/Bizagi), 5S e normas ISO, unindo tecnologia e objetivos de negócio.
 
-Unindo essa sólida base analítica e estatística às minhas formações em **Gestão Estratégica de Pessoas** e **Marketing**, desenvolvi uma forte **criatividade** para desenhar cenários de testes complexos e uma liderança natural. Possuo vasta experiência prática com ferramentas de SGQ corporativo (SoftExpert/Bizagi), cultura 5S e normas ISO, atuando como o elo perfeito de comunicação assertiva entre engenharia de software e objetivos de negócio.
+- 🏆 **Hackathons:** Premiada em 1º e 2º lugar na Benner (Saúde Digital).
+- 🎯 **Foco:** Testes Funcionais, Regras de Negócio, Ágil, SGQ e Engenharia de Processos.
+- 💡 **Diferencial:** Aplicação Lean Seis Sigma para otimização de testes e alta criatividade em cenários complexos/destrutivos.
+- ⚡ **Soft Skills:** Liderança colaborativa e comunicação assertiva.
 
-- 🏆 **Hackathons:** Premiada em 1º e 2º lugar em maratonas de inovação e tecnologia corporativas na Benner (Saúde Digital).
-- 🎯 **Foco Principal:** Testes Funcionais, Regras de Negócio, Metodologias Ágeis, Engenharia e Processos da Qualidade (SGQ).
-- 💡 **Diferencial Analítico:** Aplicação de conceitos Lean e Seis Sigma (Green Belt) para otimização de fluxos de testes e eliminação de desperdícios no ciclo de desenvolvimento.
-- ⚡ **Soft Skills:** Liderança colaborativa, comunicação clara, facilidade de relacionamento interpessoal e gerenciamento de conflitos.
+---
 
+## 🏆 Conquistas & Hackathons
+
+- 🥇 **1º Lugar (Benner):** Validação ágil de MVPs em saúde digital e UX sob pressão.
+- 🥈 **2º Lugar (Benner):** Mapeamento de cenários complexos e regras de negócio em sistemas de saúde.
+
+---
+
+## 🛠 Tech Stack & Competências
+
+### 🎯 Garantia de Qualidade, Governança & Processos
+
+*   **Testes:** Funcionais, Exploratórios, Regressão, Fumaça, Usabilidade, Sanidade.
+*   **Governança & Engenharia:** Lean Seis Sigma (Green Belt), ISO, 5S, Gestão de Projetos.
+*   **Sistemas & Modelagem:** SoftExpert, Bizagi, BPMN, BDD (Gherkin).
+*   **Gestão de Bugs/Projetos:** Jira, Trello, Redmine, Confluence, Azure DevOps.
+
+### 💻 Ferramentas
+Postman • Cypress • Git • GitHub
+
+---
+
+## 📊 Portfólio de Testes & Casos de Estudo
+
+*   [**1. Gestão e Manutenção de Acervo Documental**](./docs) - Foco em 5S e controle documental.
+*   [**2. Estruturação de Processos & Documentação**](./testes) - Foco em BDD, Mapeamento e Automação (Cypress).
