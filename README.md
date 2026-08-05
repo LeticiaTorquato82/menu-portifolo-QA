@@ -41,3 +41,8 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Git](
+---
+
+## 🏆 Conquistas & Destaques
+
+- 🥇 **2x Campeã de Hackathon:** Conquista do 1º lugar em duas maratonas de inovação e desenvolvimento, atuando diretamente na **garantia de qualidade, validação de requisitos, usabilidade (UX) e apresentação de produto**.
