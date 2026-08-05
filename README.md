@@ -4,7 +4,7 @@
 
 <br/>
 
-# ⚡ Letícia Torquato
+# ⚡ LeticiaTorquato82
 
 ### 🧬 Analista Pleno de Qualidade (QA) & Processos
 
