@@ -1,30 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Let%C3%ADcia%20Torquato&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Analyst%20Pleno%20%7C%20Software%20Quality%20%26%20Process%20Excellence&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=200&section=header&animation=fadeIn" />
+
+<br/>
+
+# ⚡ Letícia Torquato
+
+### 🧬 Analista Pleno de Qualidade (QA) & Processos
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2FE6C4&center=true&vCenter=true&width=780&lines=Healthtech+%26+Sa%C3%BAde+Suplementar;Lean+Seis+Sigma+Green+Belt;SGQ+%7C+BDD+%7C+Testes+de+Software;Qualidade+que+conecta+Tecnologia+%2B+Neg%C3%B3cio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=4CC9F0&center=true&vCenter=true&width=820&lines=QA+Analyst+Pleno+%7C+Software+Quality+%26+Process+Excellence;Healthtech+%26+Sa%C3%BAde+Suplementar;Lean+Seis+Sigma+Green+Belt+%7C+SGQ+%7C+BDD;Qualidade+que+conecta+Tecnologia+%2B+Neg%C3%B3cio" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:letytorquato@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/leticia-t-3566b9179/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/5541999297511">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-4CC9F0?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=leticiatorquato&color=2FE6C4&style=for-the-badge&label=PERFIS+VISITADOS)
-![Badge Green Belt](https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-2FE6C4?style=for-the-badge)
-![Badge ISO](https://img.shields.io/badge/ISO-9001%20%7C%2014001-2FE6C4?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=leticiatorquato&color=7209B7&style=for-the-badge&label=PERFIS+VISITADOS)
+![Badge Green Belt](https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-3A0CA3?style=for-the-badge)
+![Badge ISO](https://img.shields.io/badge/ISO-9001%20%7C%2014001-4361EE?style=for-the-badge)
 
 </div>
 
@@ -119,7 +125,7 @@ Padronização de processos, auditorias internas e gestão de não conformidades
 
 **Modelagem & Processos**
 <br/>
-<img src="https://img.shields.io/badge/SoftExpert-2FE6C4?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+<img src="https://img.shields.io/badge/SoftExpert-4CC9F0?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
 <img src="https://img.shields.io/badge/Bizagi%20(BPMN)-0F2027?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 
 **Gestão Ágil & Bugs**
@@ -142,15 +148,15 @@ Padronização de processos, auditorias internas e gestão de não conformidades
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-2FE6C4?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-4CC9F0?style=for-the-badge&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/ISO%209001-Certificado-0F2027?style=for-the-badge&logo=iso&logoColor=white" />
 <img src="https://img.shields.io/badge/ISO%2014001-Certificado-0F2027?style=for-the-badge&logo=iso&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Engenharia%20da%20Qualidade-Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Marketing-Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Engenharia%20da%20Qualidade-Gradua%C3%A7%C3%A3o-7209B7?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Marketing-Gradua%C3%A7%C3%A3o-7209B7?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Gest%C3%A3o%20Estrat%C3%A9gica%20de%20Pessoas-Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Gerenciamento%20de%20Projetos-P%C3%B3s--Gradua%C3%A7%C3%A3o-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Gest%C3%A3o%20Estrat%C3%A9gica%20de%20Pessoas-Gradua%C3%A7%C3%A3o-7209B7?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Gerenciamento%20de%20Projetos-P%C3%B3s--Gradua%C3%A7%C3%A3o-7209B7?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 </div>
 
@@ -174,8 +180,8 @@ Padronização de processos, auditorias internas e gestão de não conformidades
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leticiatorquato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2FE6C4&icon_color=2FE6C4" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiatorquato&theme=tokyonight&hide_border=true&background=0D1117&ring=2FE6C4&fire=2FE6C4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leticiatorquato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CC9F0&icon_color=4CC9F0" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiatorquato&theme=tokyonight&hide_border=true&background=0D1117&ring=4CC9F0&fire=4CC9F0" />
 
 </div>
 
@@ -189,7 +195,6 @@ Padronização de processos, auditorias internas e gestão de não conformidades
 
 📧 **[letytorquato@hotmail.com](mailto:letytorquato@hotmail.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/leticia-t-3566b9179/)** &nbsp;|&nbsp; 📱 **(41) 9.9929-7511**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:7209B7,100:F72585&height=100&section=footer" />
 
 </div>
-
