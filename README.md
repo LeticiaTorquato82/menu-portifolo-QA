@@ -68,6 +68,7 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 * **Descrição:** Governança documental, controle de temporalidade e aplicação da metodologia 5S para evitar documentos obsoletos (ITs e POPs).
 * **Artefatos:** Matriz de temporalidade, checklist de revisão e ciclo de vida de documentos.
 * **Link:** [Acessar Projeto de Governança Documental](https://github.com)
+
 </details>
 
 <details>
@@ -76,7 +77,6 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 <br />
 
 * **Descrição:** Mapeamento completo de requisitos, cenários BDD em Gherkin e planos de testes funcionais.
-* **Artefatos:** Plano de Testes, Matriz de Rastreabilidade e Suíte de Cenários.
 * **Link:** [Acessar Documentação de Testes (Em Breve)](https://github.com)
 
 
