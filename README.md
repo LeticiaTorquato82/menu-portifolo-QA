@@ -1,6 +1,6 @@
 # Olá, eu sou a Letícia! 👋
 
-### 🧪 Analista de Qualidade de Software | QA Functional Analyst
+### 🧪 Analista de Qualidade de Software | QA Functional Analyst & Process Quality
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-t-3566b9179/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
@@ -9,20 +9,21 @@
 
 ## 📌 Sobre Mim
 
-Sou **Analista de QA** com foco em **Testes Funcionais, Estratégia de Qualidade e Análise de Regras de Negócio**. Minha atuação é centrada na visão do usuário e na prevenção de falhas, garantindo que o produto entregue valor com máxima confiabilidade.
+Sou **Analista de QA** com sólida experiência em **Testes Funcionais, Estruturação de Documentação e Gestão de Processos da Qualidade**. A minha atuação combina a visão do utilizador com uma rigorosa análise de requisitos e conformidade normativa.
 
-Tenho facilidade em mapear fluxos complexos, estruturar cenários de testes bem detalhados, documentar evidências claras e colaborar ativamente com times de produto e desenvolvimento.
+Possuo vasta vivência na elaboração de **Instruções de Trabalho (ITs)**, aplicação da **metodologia 5S**, mapeamento de processos e adesão a **Normas da Qualidade**. Essa bagagem em padronização reflete-se na criação de documentações de teste extremamente detalhadas, claras e eficientes para equipas de produto e desenvolvimento.
 
-- 🔭 **Foco:** Testes Funcionais, Exploratórios, Validação de Negócio e Análise de Requisitos.
+- 🔭 **Foco:** Testes Funcionais, Exploratórios, Análise de Requisitos e Padronização de Processos.
 - 🌱 **Estudando/Praticando:** Testes manuais de API (Postman) e conceitos básicos de Cypress.
-- 💬 **Destaques:** Elaboração de Planos de Teste, Documentação de Bugs, BDD (Gherkin) e Regras de Negócio.
+- 💬 **Destaques:** Documentação Técnica, Instruções de Trabalho (IT), 5S, Normas da Qualidade, Planos de Teste e BDD (Gherkin).
 
 ---
 
 ## 🛠️ Habilidades & Competências
 
-### **Garantia de Qualidade & Processos**
-- 📋 **Estratégia de Testes:** Criação de Planos de Teste, Casos de Teste e Matriz de Rastreabilidade.
+### **Garantia da Qualidade, Documentação & Processos**
+- 📄 **Documentação & Normas:** Vasta experiência na elaboração de **Instruções de Trabalho (ITs)**, Procedimentos Operacionais Padrão (POP), mapeamento de processos, aplicação de **5S** e conformidade com **Normas da Qualidade**.
+- 📋 **Estratégia de Testes:** Criação de Planos de Teste, Casos de Teste, Matriz de Rastreabilidade e Mapeamento de Requisitos.
 - 🎯 **Tipos de Testes:** Funcionais, Exploratórios, Regressão, Usabilidade (UX), Sanidade e Fumaça (Smoke Tests).
 - 💬 **BDD (Behavior-Driven Development):** Escrita de cenários orientados a comportamento em sintaxe Gherkin (`Dado / Quando / Então`).
 - 🐞 **Gestão de Incidentes:** Reporte e acompanhamento do ciclo de vida de bugs com passos claros e evidências.
@@ -31,7 +32,7 @@ Tenho facilidade em mapear fluxos complexos, estruturar cenários de testes bem 
 ### **Ferramentas & Tecnologias de Apoio**
 - **Validação de API:** Postman / Insomnia
 - **Navegador & Testes:** DevTools (Inspecionar elemento, Console, Network)
-- **Apoio a Automação:** Cypress (básico de interface)
+- **Apoio à Automação:** Cypress (básico de interface)
 - **Gestão & Documentação:** Jira, Confluence, Trello, Notion
 - **Versionamento:** Git, GitHub
 
@@ -39,10 +40,8 @@ Tenho facilidade em mapear fluxos complexos, estruturar cenários de testes bem 
 
 ## 🚀 Portfólio de Testes & Projetos
 
-*(Adicione aqui os links para os repositórios onde você salvará seus Planos de Teste e especificações BDD)*
-
-### 🔹 Documentação & Plano de Testes
-> Mapeamento completo de requisitos, plano de testes e suíte de cenários BDD para aplicação Web/Mobile.
+### 🔹 Documentação, Instruções de Trabalho & Plano de Testes
+> Mapeamento completo de requisitos, criação de ITs (Instruções de Trabalho), padronização de processos e suíte de cenários BDD para aplicações Web/Mobile.
 
 ### 🔹 Coleção de Testes de API - Postman
 > Estruturação e validação manual de endpoints, status codes e contratos de requisições RESTful.
@@ -57,4 +56,4 @@ Tenho facilidade em mapear fluxos complexos, estruturar cenários de testes bem 
 
 ---
 
-🤝 **Vamos nos conectar?** Se quiser conversar sobre Estratégia de QA, Processos de Teste ou Oportunidades, fique à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/leticia-t-3566b9179/)!
+🤝 **Vamos nos conectar?** Se quiser conversar sobre Estratégia de QA, Processos de Qualidade ou Oportunidades, fique à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/leticia-t-3566b9179/)!
