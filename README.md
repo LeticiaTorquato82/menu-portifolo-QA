@@ -2,8 +2,6 @@
 
 ### 🧪 QA Analyst | Software Quality, Process Excellence & SGQ
 
-### 🧪 QA Analyst | Software Quality, Process Excellence & SGQ
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
