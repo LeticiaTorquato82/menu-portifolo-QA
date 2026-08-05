@@ -1,5 +1,5 @@
 
-<div align="center">
+
 
   # 👋 Olá, eu sou a Letícia!
   ### 🧪 QA Analyst | Software Quality, Process Excellence & SGQ
