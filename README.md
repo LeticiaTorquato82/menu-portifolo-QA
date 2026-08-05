@@ -65,8 +65,8 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 
 * **Descrição:** Governança documental, controle de temporalidade e aplicação da metodologia 5S para evitar documentos obsoletos (ITs e POPs).
 * **Artefatos:** Matriz de temporalidade, checklist de revisão e ciclo de vida de documentos.
-* **Link do Projeto:** <a href="https://github.com">Acessar Pasta do Projeto (Docs)</a>
-</details>
+* **Link do Projeto:** <a href=["https://github.com">Acessar Pasta do Projeto (Docs)</a>
+</details>](https://github.com/LeticiaTorquato82/gestao-acervo-documental)
 
 <details>
 <summary>🔍 <b>2. Estruturação de Processos & Documentação de Testes (Clique para expandir)</b></summary>
