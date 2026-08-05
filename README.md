@@ -58,29 +58,22 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 
 ---
 
-## 📑 Portfólio de Testes & Casos de Estudo
+## 📊 Portfólio de Testes & Casos de Estudo
 
 <details>
-<summary>📁 <b>1. Gestão e Manutenção de Acervo Documental (Clique para expandir)</b></summary>
-
-<br />
+<summary>📙 <b>1. Gestão e Manutenção de Acervo Documental (Clique para expandir)</b></summary>
 
 * **Descrição:** Governança documental, controle de temporalidade e aplicação da metodologia 5S para evitar documentos obsoletos (ITs e POPs).
 * **Artefatos:** Matriz de temporalidade, checklist de revisão e ciclo de vida de documentos.
-* **Link:** [Acessar Projeto de Governança Documental](https://github.com)
-
+* **Link do Projeto:** https://github.com
 </details>
 
 <details>
 <summary>🔍 <b>2. Estruturação de Processos & Documentação de Testes (Clique para expandir)</b></summary>
 
-<br />
-
 * **Descrição:** Mapeamento completo de requisitos, cenários BDD em Gherkin e planos de testes funcionais.
-* **Link:** [Acessar Documentação de Testes (Em Breve)](https://github.com)
-
-
-
----
+* **Artefatos:** Plano de Testes, Matriz de Rastreabilidade e Suíte de Cenários.
+* **Link do Projeto:** https://github.com
+</details>
 
 
