@@ -57,23 +57,24 @@ Minha trajetória traz um diferencial estratégico: **vasta experiência em padr
 ![SoftExpert](https://img.shields.io/badge/SoftExpert-005A9C?style=flat-square&logoColor=white)
 
 ---
-
 ## 📊 Portfólio de Testes & Casos de Estudo
 
 <details>
 <summary>📙 <b>1. Gestão e Manutenção de Acervo Documental (Clique para expandir)</b></summary>
+<br>
 
 * **Descrição:** Governança documental, controle de temporalidade e aplicação da metodologia 5S para evitar documentos obsoletos (ITs e POPs).
 * **Artefatos:** Matriz de temporalidade, checklist de revisão e ciclo de vida de documentos.
-* **Link do Projeto:** https://github.com
+* **Link do Projeto:** <a href="https://github.com">Acessar Pasta do Projeto (Docs)</a>
 </details>
 
 <details>
 <summary>🔍 <b>2. Estruturação de Processos & Documentação de Testes (Clique para expandir)</b></summary>
+<br>
 
 * **Descrição:** Mapeamento completo de requisitos, cenários BDD em Gherkin e planos de testes funcionais.
 * **Artefatos:** Plano de Testes, Matriz de Rastreabilidade e Suíte de Cenários.
-* **Link do Projeto:** https://github.com
+* **Link do Projeto:** <a href="https://github.com">Acessar Pasta de Testes (Em Breve)</a>
 </details>
 
 
