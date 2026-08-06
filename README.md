@@ -175,11 +175,11 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-00E676?style=for-the-badge&logo=readdotcv&logoColor=black" />
-<img src="https://img.shields.io/badge/ISO%209001-Auditoria%20Interna-2ECC71?style=for-the-badge&logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO%2014001-Sistemas%20de%20Gest%C3%A3o-0B6E4F?style=for-the-badge&logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/BDD-Gherkin-2ECC71?style=for-the-badge&logo=cucumber&logoColor=white" />
-<img src="https://img.shields.io/badge/ANS%20%7C%20TISS%20%7C%20TUSS-Conformidade%20Regulat%C3%B3ria-0B6E4F?style=for-the-badge&logo=readdotcv&logoColor=white" />
+<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-00E676?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/ISO%209001-Auditoria%20Interna-00E676?style=for-the-badge&logo=iso&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/ISO%2014001-Sistemas%20de%20Gest%C3%A3o-00E676?style=for-the-badge&logo=iso&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/BDD-Gherkin-00E676?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/ANS%20%7C%20TISS%20%7C%20TUSS-Conformidade%20Regulat%C3%B3ria-00E676?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=3A5F0C" />
 
 </div>
 
