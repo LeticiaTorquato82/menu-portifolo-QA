@@ -78,16 +78,16 @@ Combino **domínio técnico em testes manuais e automatizados** com **certifica�
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 1º Lugar — Hackathon Benner
-**Saúde Digital**
-Validação e testes ágeis em MVPs sob alta pressão, cobrindo regras operacionais e usabilidade (UX).
+### 🥇 1º Lugar — Hackathon Benner (2021)
+**1ª Edição | Saúde Digital**
+Vencedora da primeira edição do hackathon, com validação e testes ágeis em MVPs sob alta pressão, cobrindo regras operacionais e usabilidade (UX).
 
 </td>
 <td width="50%" valign="top">
 
-### 🥈 2º Lugar — Hackathon Benner
-**Saúde Digital**
-Mapeamento e validação de cenários complexos de negócio em sistemas para saúde.
+### 🥈 2º Lugar — Hackathon Benner (2022)
+**2ª Edição | Saúde Digital**
+Segundo lugar na segunda edição do hackathon, com mapeamento e validação de cenários complexos de negócio em sistemas para saúde.
 
 </td>
 </tr>
