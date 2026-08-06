@@ -1,15 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:00BBF9,50:9B5DE5,75:F15BB5,100:FEE440&height=180&section=header&animation=fadeIn" />
+<img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
 
 # Letícia Torquato
 
-### Analista Pleno de Qualidade (QA) & Processos
+### Analista de Qualidade (QA) & Processos
+
+<sub>🟢 **Atualmente na NEXDOM Healthtech**</sub>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=850&lines=14%2B+anos+em+Qualidade+de+Software+%26+Processos;QA+Analyst+Pleno+%7C+Software+Quality+%26+Process+Excellence;Healthtech+%26+Sa%C3%BAde+Suplementar+%7C+Conformidade+ANS;Lean+Seis+Sigma+Green+Belt+%7C+SGQ+%7C+BDD+%7C+Cypress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=850&lines=14%2B+anos+em+Qualidade+de+Software+%26+Processos;QA+Analyst+%7C+Software+Quality+%26+Process+Excellence;Healthtech+%26+Sa%C3%BAde+Suplementar+%7C+Conformidade+ANS;Lean+Seis+Sigma+Green+Belt+%7C+SGQ+%7C+BDD+%7C+Cypress" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,10 +28,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeticiaTorquato82&color=9B5DE5&style=for-the-badge&label=VISITAS)
-![Badge Green Belt](https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-00BBF9?style=for-the-badge)
-![Badge ISO](https://img.shields.io/badge/ISO-9001%20%7C%2014001-9B5DE5?style=for-the-badge)
-![Badge Anos](https://img.shields.io/badge/Experi%C3%AAncia-14%2B%20anos%20em%20QA-00F5D4?style=for-the-badge)
+<img src="https://img.shields.io/badge/📍%20Atualmente-Analista%20de%20QA%20na%20NEXDOM-F15BB5?style=for-the-badge" />
 
 </div>
 
@@ -41,9 +40,13 @@
 
 > **Engenharia de Qualidade de Software unida à Governança de Processos.**
 
-Sou **Analista Pleno de QA** com **mais de 14 anos de atuação dedicada à área de testes e garantia de qualidade**, construindo uma trajetória sólida no desenvolvimento de ecossistemas de alta qualidade para **Healthtechs e Saúde Suplementar** (com passagens por *NEXDOM*, *Unimed Curitiba* e *Benner*). Ao longo desses anos, evoluí de uma visão puramente técnica de testes para uma atuação estratégica, sendo hoje a ponte entre os times de Tecnologia, Negócio e Regulação — garantindo que o software não apenas funcione sem falhas, mas que siga processos escaláveis, auditáveis e alinhados às normas vigentes.
+<div align="justify">
+
+Sou **Analista de QA** com **mais de 14 anos de atuação dedicada à área de testes e garantia de qualidade**. **Atualmente atuo na NEXDOM Healthtech**, onde sou responsável pela garantia de qualidade e validações funcionais de sistemas de saúde digital, construindo uma trajetória sólida no desenvolvimento de ecossistemas de alta qualidade para **Healthtechs e Saúde Suplementar** (com passagens também por *Unimed Curitiba* e *Benner*). Ao longo desses anos, evoluí de uma visão puramente técnica de testes para uma atuação estratégica, sendo hoje a ponte entre os times de Tecnologia, Negócio e Regulação — garantindo que o software não apenas funcione sem falhas, mas que siga processos escaláveis, auditáveis e alinhados às normas vigentes.
 
 Combino **domínio técnico em testes manuais e automatizados** com **certificação Green Belt em Lean Seis Sigma**, unindo qualidade de produto e qualidade de processo em uma única frente de atuação — um diferencial construído ao longo de mais de uma década de experiência prática no setor.
+
+</div>
 
 <br/>
 
@@ -94,8 +97,9 @@ Segundo lugar na segunda edição do hackathon, com mapeamento e validação de 
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ NEXDOM Healthtech
-Evolução da garantia da qualidade e validações funcionais em sistemas de saúde digital.
+### ⚡ NEXDOM Healthtech — 🟢 Posição Atual
+**Analista de QA**
+Responsável pela evolução da garantia da qualidade e validações funcionais em sistemas de saúde digital.
 
 </td>
 <td width="50%" valign="top">
@@ -168,12 +172,34 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📜 Certificações & Formação
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeticiaTorquato82&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" />
-<img height="165" src="https://streak-stats.demolab.com/?user=LeticiaTorquato82&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=F15BB5&currStreakLabel=00F5D4" />
+<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-00F5D4?style=for-the-badge&logo=readdotcv&logoColor=black" />
+<img src="https://img.shields.io/badge/ISO%209001-Auditoria%20Interna-00BBF9?style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%2014001-Sistemas%20de%20Gest%C3%A3o-9B5DE5?style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/BDD-Gherkin-F15BB5?style=for-the-badge&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/ANS%20%7C%20TISS%20%7C%20TUSS-Conformidade%20Regulat%C3%B3ria-FEE440?style=for-the-badge&logo=readdotcv&logoColor=black" />
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Métricas de Qualidade
+
+<div align="center">
+
+| 🎯 Indicador | 📌 Resultado |
+|:---|:---:|
+| Anos de atuação em QA & Testes | **14+ anos** |
+| Tempo dedicado à estruturação de processos (Unimed Curitiba) | **7+ anos** |
+| Hackathons Benner (Saúde Digital) | **1º lugar (2021) · 2º lugar (2022)** |
+| Certificação em Excelência de Processos | **Lean Seis Sigma — Green Belt** |
+| Normas de Sistema de Gestão da Qualidade | **ISO 9001 · ISO 14001** |
+| Domínio regulatório em Saúde Suplementar | **ANS · TISS · TUSS · NIP** |
 
 </div>
 
@@ -189,7 +215,6 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FEE440,25:F15BB5,50:9B5DE5,75:00BBF9,100:00F5D4&height=100&section=footer" />
+<img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
 
 </div>
-
