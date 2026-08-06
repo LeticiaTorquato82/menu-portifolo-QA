@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
 
