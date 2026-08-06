@@ -168,8 +168,8 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ## <span style="color: #1b5e20;">✍️ Artigos & Publicações</span>
 
-* **[Como unir QA e Lean Seis Sigma para reduzir falhas na Saúde Suplementar](https://www.linkedin.com/in/leticia-t-3566b9179/)**
-* **[O papel do analista de QA na conformidade regulatória (ANS)](https://www.linkedin.com/in/leticia-t-3566b9179/)**
+* **[Como unir QA e Lean Seis Sigma para reduzir falhas na Saúde Suplementar](https://www.sixsigmaonline.org/six-sigma-for-software-development/)**
+* **[O papel do analista de QA na conformidade regulatória (ANS)](https://www.sixsigmaonline.org/jidoka-lean-six-sigma/)**
 
 <br/>
 
