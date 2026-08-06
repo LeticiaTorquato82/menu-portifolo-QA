@@ -1,0 +1,82 @@
+<svg width="100%" height="220" viewBox="0 0 1600 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F0D"/>
+      <stop offset="50%" stop-color="#0D1712"/>
+      <stop offset="100%" stop-color="#0A0F0D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E676" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00E676" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="220" fill="url(#bgGrad)"/>
+  <circle cx="800" cy="110" r="260" fill="url(#glow)"/>
+
+  <!-- furos de solda mask (textura de placa) -->
+  <g fill="#ffffff" opacity="0.05">
+    <circle cx="40" cy="40" r="1.4"/><circle cx="120" cy="40" r="1.4"/><circle cx="200" cy="40" r="1.4"/><circle cx="280" cy="40" r="1.4"/><circle cx="360" cy="40" r="1.4"/><circle cx="440" cy="40" r="1.4"/><circle cx="520" cy="40" r="1.4"/><circle cx="600" cy="40" r="1.4"/><circle cx="680" cy="40" r="1.4"/><circle cx="760" cy="40" r="1.4"/><circle cx="840" cy="40" r="1.4"/><circle cx="920" cy="40" r="1.4"/><circle cx="1000" cy="40" r="1.4"/><circle cx="1080" cy="40" r="1.4"/><circle cx="1160" cy="40" r="1.4"/><circle cx="1240" cy="40" r="1.4"/><circle cx="1320" cy="40" r="1.4"/><circle cx="1400" cy="40" r="1.4"/><circle cx="1480" cy="40" r="1.4"/><circle cx="1560" cy="40" r="1.4"/>
+    <circle cx="40" cy="180" r="1.4"/><circle cx="120" cy="180" r="1.4"/><circle cx="200" cy="180" r="1.4"/><circle cx="280" cy="180" r="1.4"/><circle cx="360" cy="180" r="1.4"/><circle cx="440" cy="180" r="1.4"/><circle cx="520" cy="180" r="1.4"/><circle cx="600" cy="180" r="1.4"/><circle cx="680" cy="180" r="1.4"/><circle cx="760" cy="180" r="1.4"/><circle cx="840" cy="180" r="1.4"/><circle cx="920" cy="180" r="1.4"/><circle cx="1000" cy="180" r="1.4"/><circle cx="1080" cy="180" r="1.4"/><circle cx="1160" cy="180" r="1.4"/><circle cx="1240" cy="180" r="1.4"/><circle cx="1320" cy="180" r="1.4"/><circle cx="1400" cy="180" r="1.4"/><circle cx="1480" cy="180" r="1.4"/><circle cx="1560" cy="180" r="1.4"/>
+  </g>
+
+  <!-- chip central (silhueta de CI) -->
+  <g>
+    <rect x="740" y="85" width="120" height="50" rx="4" fill="#1B241F" stroke="#00E676" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="752" y="97" width="96" height="26" rx="2" fill="#0E1512"/>
+    <g stroke="#00E676" stroke-opacity="0.6" stroke-width="1.5">
+      <path d="M740,98 H726 M740,110 H726 M740,122 H726"/>
+      <path d="M860,98 H874 M860,110 H874 M860,122 H874"/>
+    </g>
+  </g>
+
+  <!-- trilhas do circuito (traces) -->
+  <g fill="none" stroke-width="1.6" stroke-linecap="round">
+    <path id="trace1" d="M-30,60 H180 L210,90 H400 L430,60 H620 L650,90 L740,90" stroke="#00E676" stroke-opacity="0.6"/>
+    <path id="trace2" d="M-30,150 H150 L180,120 H360 L390,150 H580 L610,120 L740,120" stroke="#2ECC71" stroke-opacity="0.55"/>
+    <path id="trace3" d="M1630,55 H1420 L1390,85 H1180 L1150,55 H900 L870,85 L860,85" stroke="#0B6E4F" stroke-opacity="0.7"/>
+    <path id="trace4" d="M1630,155 H1450 L1420,125 H1220 L1190,155 H960 L930,125 L860,125" stroke="#2ECC71" stroke-opacity="0.55"/>
+    <path id="trace5" d="M-30,20 H90 L120,40 H260" stroke="#FEE440" stroke-opacity="0.4"/>
+    <path id="trace6" d="M1630,20 H1500 L1470,40 H1340" stroke="#00E676" stroke-opacity="0.4"/>
+    <path id="trace7" d="M-30,200 H110 L140,175 H300" stroke="#0B6E4F" stroke-opacity="0.5"/>
+    <path id="trace8" d="M1630,200 H1480 L1450,175 H1300" stroke="#FEE440" stroke-opacity="0.35"/>
+  </g>
+
+  <!-- vias / pads nos vertices -->
+  <g fill="none">
+    <circle cx="180" cy="60" r="5" stroke="#00E676" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="430" cy="60" r="5" stroke="#00E676" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="150" cy="150" r="5" stroke="#2ECC71" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="580" cy="150" r="5" stroke="#2ECC71" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="1420" cy="55" r="5" stroke="#0B6E4F" stroke-width="1.4" opacity="0.8"/>
+    <circle cx="1150" cy="55" r="5" stroke="#0B6E4F" stroke-width="1.4" opacity="0.8"/>
+    <circle cx="1450" cy="155" r="5" stroke="#2ECC71" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="1220" cy="155" r="5" stroke="#2ECC71" stroke-width="1.4" opacity="0.7"/>
+  </g>
+  <g fill="#0D1712">
+    <circle cx="180" cy="60" r="2.5"/><circle cx="430" cy="60" r="2.5"/>
+    <circle cx="150" cy="150" r="2.5"/><circle cx="580" cy="150" r="2.5"/>
+    <circle cx="1420" cy="55" r="2.5"/><circle cx="1150" cy="55" r="2.5"/>
+    <circle cx="1450" cy="155" r="2.5"/><circle cx="1220" cy="155" r="2.5"/>
+  </g>
+
+  <!-- pulsos de energia percorrendo as trilhas -->
+  <g>
+    <circle r="3.2" fill="#00E676"><animateMotion dur="3s" repeatCount="indefinite" begin="0s"><mpath href="#trace1"/></animateMotion></circle>
+    <circle r="3.2" fill="#2ECC71"><animateMotion dur="3.6s" repeatCount="indefinite" begin="0.6s"><mpath href="#trace2"/></animateMotion></circle>
+    <circle r="3.2" fill="#0B6E4F"><animateMotion dur="3.3s" repeatCount="indefinite" begin="0.3s"><mpath href="#trace3"/></animateMotion></circle>
+    <circle r="3.2" fill="#2ECC71"><animateMotion dur="3.8s" repeatCount="indefinite" begin="0.9s"><mpath href="#trace4"/></animateMotion></circle>
+    <circle r="2.4" fill="#FEE440"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.2s"><mpath href="#trace5"/></animateMotion></circle>
+    <circle r="2.4" fill="#00E676"><animateMotion dur="2.6s" repeatCount="indefinite" begin="1.1s"><mpath href="#trace6"/></animateMotion></circle>
+    <circle r="2.4" fill="#0B6E4F"><animateMotion dur="2.8s" repeatCount="indefinite" begin="0.5s"><mpath href="#trace7"/></animateMotion></circle>
+    <circle r="2.4" fill="#FEE440"><animateMotion dur="2.5s" repeatCount="indefinite" begin="1.4s"><mpath href="#trace8"/></animateMotion></circle>
+  </g>
+
+  <!-- leds do chip piscando -->
+  <g>
+    <circle cx="800" cy="100" r="2.5" fill="#00E676"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="815" cy="100" r="2.5" fill="#2ECC71"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="112" r="2.5" fill="#FEE440"><animate attributeName="opacity" values="1;0.3;1" dur="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="815" cy="112" r="2.5" fill="#0B6E4F"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.9s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
