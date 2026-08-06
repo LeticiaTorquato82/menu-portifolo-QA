@@ -192,3 +192,4 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FEE440,25:F15BB5,50:9B5DE5,75:00BBF9,100:00F5D4&height=100&section=footer" />
 
 </div>
+
