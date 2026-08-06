@@ -36,9 +36,11 @@
 
 <div align="justify">
 
-Sou **Analista de QA** com **mais de 14 anos de atuação dedicada à área de testes e garantia de qualidade**. **Atualmente atuo na NEXDOM Healthtech**, onde sou responsável pela garantia de qualidade e validações funcionais de sistemas de saúde digital, construindo uma trajetória sólida no desenvolvimento de ecossistemas de alta qualidade para **Healthtechs e Saúde Suplementar** (com passagens também por *Unimed Curitiba* e *Benner*). Ao longo desses anos, evoluí de uma visão puramente técnica de testes para uma atuação estratégica, sendo hoje a ponte entre os times de Tecnologia, Negócio e Regulação — garantindo que o software não apenas funcione sem falhas, mas que siga processos escaláveis, auditáveis e alinhados às normas vigentes.
+Sou **Analista de QA** com **mais de 14 anos de atuação dedicada à área de testes e garantia de qualidade de software**. Atualmente na **NEXDOM Healthtech**, sou responsável pela garantia de qualidade e validações funcionais de sistemas de saúde digital, construindo uma trajetória sólida no desenvolvimento de ecossistemas de alta qualidade para **Healthtechs e Saúde Suplementar** (com passagens também por *Unimed Curitiba* e *Benner*).
 
-Combino **domínio técnico em testes manuais e automatizados** com **certificação Green Belt em Lean Seis Sigma**, unindo qualidade de produto e qualidade de processo em uma única frente de atuação — um diferencial construído ao longo de mais de uma década de experiência prática no setor.
+Ao longo desses anos, evoluí de uma visão puramente técnica de testes para uma atuação estratégica, sendo hoje a ponte entre os times de **Tecnologia, Negócio e Regulação** — garantindo que o software não apenas funcione sem falhas, mas que siga processos escaláveis, auditáveis e alinhados às normas vigentes. Minha atuação inclui ainda a elaboração de documentações técnicas de customizações e implementações, com foco em facilitar o entendimento do usuário final e garantir a correta adoção das funcionalidades entregues.
+
+Combino **domínio técnico em testes manuais e automatizados** com **certificação Green Belt em Lean Seis Sigma**, unindo qualidade de produto e qualidade de processo em uma única frente de atuação — um diferencial construído ao longo de mais de uma década de experiência prática no setor. Atualmente, estou ampliando minha atuação em direção à automação de testes, com estudos e prática em **Cypress**.
 
 </div>
 
@@ -49,16 +51,17 @@ Combino **domínio técnico em testes manuais e automatizados** com **certifica�
 <td width="50%" valign="top">
 
 ### <span style="color: #1b5e20;">🔍 Foco & Qualidade de Software</span>
-* **Análise de Requisitos & Regras de Negócio:** Mapeamento profundo e testes em cenários operacionais complexos.
-* **Testes & Modelagem:** Estruturação de cenários com BDD (Gherkin), testes funcionais, usabilidade, regressão e testes automatizados.
-* **Saúde & Regulação:** Ampla expertise em conformidade regulatória (ANS, TISS, TUSS e NIP).
+* **Análise de Requisitos & Regras de Negócio:** mapeamento profundo e testes em cenários operacionais complexos.
+* **Testes & Modelagem:** estruturação de cenários com BDD (Gherkin), testes funcionais, de usabilidade, regressão e automação de testes.
+* **Documentação Técnica:** elaboração de materiais de apoio sobre customizações e implementações para times e usuários finais.
+* **Saúde & Regulação:** ampla expertise em conformidade regulatória (ANS, TISS, TUSS e NIP).
 
 </td>
 <td width="50%" valign="top">
 
 ### <span style="color: #1b5e20;">⚙️ Processos, SGQ & Pessoas</span>
-* **Engenharia de Processos:** Certificada Green Belt (Lean Seis Sigma), atuação com PDCA, 5S e BPMN.
-* **Sistemas de Gestão (SGQ):** Vivência prática com normas ISO 9001/14001 e auditorias internas.
+* **Engenharia de Processos:** certificada Green Belt (Lean Seis Sigma), atuação com PDCA, 5S e BPMN.
+* **Sistemas de Gestão (SGQ):** vivência prática com normas ISO 9001/14001 e auditorias internas.
 * **Formação Multidisciplinar:** Engenharia da Qualidade, Marketing, Gestão Estratégica de Pessoas e Projetos.
 
 </td>
@@ -93,7 +96,7 @@ Segundo lugar na segunda edição do hackathon, com mapeamento e validação de 
 
 ### <span style="color: #1b5e20;">⚡ NEXDOM Healthtech — 🟢 Posição Atual</span>
 **Analista de QA**
-Responsável pela evolução da garantia da qualidade e validações funcionais em sistemas de saúde digital.
+Responsável pela garantia de qualidade e validações funcionais em sistemas de saúde digital.
 
 </td>
 <td width="50%" valign="top">
@@ -126,11 +129,11 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## <span style="color: #1b5e20;">🛠️ Stack Tecnológica & Ferramentas</span>
+## <span style="color: #1b5e20;">🛠️ Stack & Ferramentas</span>
 
 <div align="center">
 
-**Testes, Automação & Código**
+**Testes & Ferramentas de Apoio**
 <br/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00E676" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -161,15 +164,6 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 | 🗂️ **[Gestão e Manutenção de Acervo Documental](./docs/README.md)** | Governança documental estruturada sob a metodologia 5S. |
 
 </div>
-
-<br/>
-
----
-
-## <span style="color: #1b5e20;">✍️ Artigos & Publicações</span>
-
-* **[Como unir QA e Lean Seis Sigma para reduzir falhas na Saúde Suplementar](https://www.sixsigmaonline.org/six-sigma-for-software-development/)**
-* **[O papel do analista de QA na conformidade regulatória (ANS)](https://www.sixsigmaonline.org/jidoka-lean-six-sigma/)**
 
 <br/>
 
