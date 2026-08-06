@@ -2,9 +2,9 @@
 
 <img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
 
-# Letícia Torquato
+# <span style="color: #1b5e20;">Letícia Torquato</span>
 
-### Analista de Qualidade (QA) & Processos
+### <span style="color: #1b5e20;">Analista de Qualidade (QA) & Processos</span>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Sobre Mim
+## <span style="color: #1b5e20;">💻 Sobre Mim</span>
 
 > **Engenharia de Qualidade de Software unida à Governança de Processos.**
 
@@ -48,7 +48,7 @@ Combino **domínio técnico em testes manuais e automatizados** com **certifica�
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Foco & Qualidade de Software
+### <span style="color: #1b5e20;">🔍 Foco & Qualidade de Software</span>
 * **Análise de Requisitos & Regras de Negócio:** Mapeamento profundo e testes em cenários operacionais complexos.
 * **Testes & Modelagem:** Estruturação de cenários com BDD (Gherkin), testes funcionais, usabilidade, regressão e testes automatizados.
 * **Saúde & Regulação:** Ampla expertise em conformidade regulatória (ANS, TISS, TUSS e NIP).
@@ -56,7 +56,7 @@ Combino **domínio técnico em testes manuais e automatizados** com **certifica�
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Processos, SGQ & Pessoas
+### <span style="color: #1b5e20;">⚙️ Processos, SGQ & Pessoas</span>
 * **Engenharia de Processos:** Certificada Green Belt (Lean Seis Sigma), atuação com PDCA, 5S e BPMN.
 * **Sistemas de Gestão (SGQ):** Vivência prática com normas ISO 9001/14001 e auditorias internas.
 * **Formação Multidisciplinar:** Engenharia da Qualidade, Marketing, Gestão Estratégica de Pessoas e Projetos.
@@ -69,20 +69,20 @@ Combino **domínio técnico em testes manuais e automatizados** com **certifica�
 
 ---
 
-## 🏆 Destaques & Trajetória
+## <span style="color: #1b5e20;">🏆 Destaques & Trajetória</span>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 1º Lugar — Hackathon Benner (2021)
+### <span style="color: #1b5e20;">🥇 1º Lugar — Hackathon Benner (2021)</span>
 **1ª Edição | Saúde Digital**
 Vencedora da primeira edição do hackathon, com validação e testes ágeis em MVPs sob alta pressão, cobrindo regras operacionais e usabilidade (UX).
 
 </td>
 <td width="50%" valign="top">
 
-### 🥈 2º Lugar — Hackathon Benner (2022)
+### <span style="color: #1b5e20;">🥈 2º Lugar — Hackathon Benner (2022)</span>
 **2ª Edição | Saúde Digital**
 Segundo lugar na segunda edição do hackathon, com mapeamento e validação de cenários complexos de negócio em sistemas para saúde.
 
@@ -91,14 +91,14 @@ Segundo lugar na segunda edição do hackathon, com mapeamento e validação de 
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ NEXDOM Healthtech — 🟢 Posição Atual
+### <span style="color: #1b5e20;">⚡ NEXDOM Healthtech — 🟢 Posição Atual</span>
 **Analista de QA**
 Responsável pela evolução da garantia da qualidade e validações funcionais em sistemas de saúde digital.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 7+ Anos — Unimed Curitiba
+### <span style="color: #1b5e20;">🏥 7+ Anos — Unimed Curitiba</span>
 Estruturação e padronização de processos, gestão de não conformidades e auditorias internas de qualidade.
 
 </td>
@@ -109,7 +109,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 🎯 Matriz de Competências
+## <span style="color: #1b5e20;">🎯 Matriz de Competências</span>
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 🛠️ Stack Tecnológica & Ferramentas
+## <span style="color: #1b5e20;">🛠️ Stack Tecnológica & Ferramentas</span>
 
 <div align="center">
 
@@ -150,7 +150,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 📁 Projetos & Casos Práticos
+## <span style="color: #1b5e20;">📁 Projetos & Casos Práticos</span>
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 📜 Certificações & Formação
+## <span style="color: #1b5e20;">📜 Certificações & Formação</span>
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 📈 Métricas de Qualidade
+## <span style="color: #1b5e20;">📈 Métricas de Qualidade</span>
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 ---
 
-## 📬 Contato & Conexão
+## <span style="color: #1b5e20;">📬 Contato & Conexão</span>
 
 <div align="center">
 
@@ -212,4 +212,3 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 <img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
 
 </div>
-
