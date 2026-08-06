@@ -9,19 +9,19 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=850&lines=14%2B+anos+em+Qualidade+de+Software+%26+Processos;QA+Analyst+%7C+Software+Quality+%26+Process+Excellence;Healthtech+%26+Sa%C3%BAde+Suplementar+%7C+Conformidade+ANS;Lean+Seis+Sigma+Green+Belt+%7C+SGQ+%7C+BDD+%7C+Cypress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=850&lines=14%2B+anos+em+Qualidade+de+Software+%26+Processos;QA+Analyst+%7C+Software+Quality+%26+Process+Excellence;Healthtech+%26+Sa%C3%BAde+Suplementar+%7C+Conformidade+ANS;Lean+Seis+Sigma+Green+Belt+%7C+SGQ+%7C+BDD+%7C+Cypress" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:letytorquato@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-F15BB5?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-37474F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/leticia-t-3566b9179/">
-  <img src="https://img.shields.io/badge/LinkedIn-00BBF9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/5541999297511">
-  <img src="https://img.shields.io/badge/WhatsApp-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  <img src="https://img.shields.io/badge/WhatsApp-00E676?style=for-the-badge&logo=whatsapp&logoColor=black" />
 </a>
 
 </div>
@@ -132,7 +132,7 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 **Testes, Automação & Código**
 <br/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00E676" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -141,8 +141,8 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 <br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/SoftExpert-00BBF9?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Bizagi%20(BPMN)-0F2027?style=for-the-badge&logo=diagramsdotnet&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/SoftExpert-0B6E4F?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Bizagi%20(BPMN)-37474F?style=for-the-badge&logo=diagramsdotnet&logoColor=00E676" />
 
 </div>
 
@@ -170,11 +170,11 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-00F5D4?style=for-the-badge&logo=readdotcv&logoColor=black" />
-<img src="https://img.shields.io/badge/ISO%209001-Auditoria%20Interna-00BBF9?style=for-the-badge&logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO%2014001-Sistemas%20de%20Gest%C3%A3o-9B5DE5?style=for-the-badge&logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/BDD-Gherkin-F15BB5?style=for-the-badge&logo=cucumber&logoColor=white" />
-<img src="https://img.shields.io/badge/ANS%20%7C%20TISS%20%7C%20TUSS-Conformidade%20Regulat%C3%B3ria-FEE440?style=for-the-badge&logo=readdotcv&logoColor=black" />
+<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-37474F?style=for-the-badge&logo=readdotcv&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%209001-Auditoria%20Interna-FEE440?style=for-the-badge&logo=iso&logoColor=black" />
+<img src="https://img.shields.io/badge/ISO%2014001-Sistemas%20de%20Gest%C3%A3o-37474F?style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/BDD-Gherkin-FEE440?style=for-the-badge&logo=cucumber&logoColor=black" />
+<img src="https://img.shields.io/badge/ANS%20%7C%20TISS%20%7C%20TUSS-Conformidade%20Regulat%C3%B3ria-37474F?style=for-the-badge&logo=readdotcv&logoColor=white" />
 
 </div>
 
@@ -212,3 +212,4 @@ Estruturação e padronização de processos, gestão de não conformidades e au
 <img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
 
 </div>
+
