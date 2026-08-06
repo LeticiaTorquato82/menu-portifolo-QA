@@ -6,8 +6,6 @@
 
 ### Analista de Qualidade (QA) & Processos
 
-<sub>🟢 **Atualmente na NEXDOM Healthtech**</sub>
-
 <br/>
 
 <a href="https://git.io/typing-svg">
@@ -25,10 +23,6 @@
 <a href="https://wa.me/5541999297511">
   <img src="https://img.shields.io/badge/WhatsApp-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=black" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍%20Atualmente-Analista%20de%20QA%20na%20NEXDOM-F15BB5?style=for-the-badge" />
 
 </div>
 
