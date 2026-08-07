@@ -78,4 +78,38 @@
 
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00E676" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Bizagi-37474F?style=for-the-badge&logo=diagramsdotnet&logoColor=00E676" />
+
+</div>
+
+---
+
+## <span style="color: #1b5e20;">📁 Projetos & Casos Práticos</span>
+
+* 🌐 **Implantação do Autorizador Web (Unimed Curitiba):** Atuação direta na homologação, elaboração de documentação técnica, testes e relatórios de acompanhamento até a completa estabilização do processo.
+* 🗂️ **[Gestão e Manutenção de Acervo Documental](./docs/README.md):** Governança documental estruturada sob a metodologia 5S, contendo o checklist de auditoria e a tabela de temporalidade.
+
+---
+
+## <span style="color: #1b5e20;">📜 Certificações</span>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lean%20Seis%20Sigma-Green%20Belt-00E676?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/ISO%209001-Auditoria%20Interna-00E676?style=for-the-badge&logo=iso&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/ISO%2014001-Sistemas%20de%20Gest%C3%A3o-00E676?style=for-the-badge&logo=iso&logoColor=white&labelColor=3A5F0C" />
+<img src="https://img.shields.io/badge/BDD-Gherkin-00E676?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=3A5F0C" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="./docs/assets/tech-banner.svg" alt="Banner tecnológico animado" />
+
+</div>
