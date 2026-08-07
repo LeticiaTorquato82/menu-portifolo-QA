@@ -1,33 +1,31 @@
-# 📁 Projeto de Gestão e Manutenção de Acervo Documental
+# Projeto de Gestão e Manutenção de Acervo Documental - API & Governança
 
-> Modelo estruturado para a governança, padronização e manutenção contínua de acervos documentais corporativos.
+Esta Wiki documenta a API e os motores de governança do **Projeto de Gestão e Manutenção de Acervo Documental**, responsável pelo controle do ciclo de vida documental, integração contínua com o **Zoho (Zoho WorkDrive / Docs)**, varredura de temporalidade e auditoria automatizada.
+
+O projeto estabelece um modelo estruturado para governança, padronização e manutenção contínua de acervos documentais corporativos em conformidade com normas como a **ISO 9001**.
+
+Documentação de frontend, épicos, diagramas institucionais e artefatos de produto ficam no repositório:
+
+[repositorio-governanca-acervo](https://github.com/seu-usuario/gestao-acervo-documental)
 
 ---
 
 ## 🎯 Sobre o Projeto
-Este projeto define as diretrizes, processos e ferramentas necessários para implementar uma governança documental eficiente. O objetivo principal é eliminar documentos obsoletos, garantir a conformidade com normas de qualidade (como a ISO 9001) e manter o ciclo de revisão permanentemente atualizado.
+Este projeto define as diretrizes, processos e ferramentas necessários para implementar uma governança documental eficiente. O objetivo principal é eliminar documentos obsoletos, garantir a conformidade normativa e manter o ciclo de revisão permanentemente atualizado.
 
-## 🚀 Pilares Estratégicos
+### 🚀 Pilares Estratégicos
 * **Governança Eficiente:** Centralização e controle rigoroso do ciclo de vida dos documentos.
-* **Padronização Total:** Alinhamento com as normas de qualidade e diretrizes corporativas.
-* **Mitigação de Riscos:** Eliminação sistemática de informações obsoletas ou duplicadas.
-
-## 🗺️ Etapas de Implementação
-```mermaid
-graph TD
-    A[1. Diagnóstico e Auditoria] --> B[2. Higienização do Acervo]
-    B --> C[3. Padronização e Normatização]
-    C --> D[4. Ciclo de Revisão Contínua]
-```
-1. **Diagnóstico e Auditoria:** Mapeamento completo do acervo atual e identificação de gargalos.
-2. **Higienização do Acervo:** Descarte seguro e em conformidade legal de documentos obsoletos.
-3. **Padronização e Normatização:** Criação de templates e regras de nomenclatura claras.
-4. **Ciclo de Revisão Contínua:** Definição de cronogramas automáticos para novas análises.
+* **Padronização Total:** Alinhamento com as normas de qualidade (ex: ISO 9001) e diretrizes corporativas.
+* **Mitigação de Riscos:** Eliminação sistemática de informações obsoletas, sem data ou duplicadas.
 
 ---
 
-## 📂 Arquivos e Artefatos do Projeto
-Nesta pasta você encontra as ferramentas práticas desenvolvidas para este modelo de governança:
+## 🗺️ Índice das Páginas
 
-* ⏳ **[Tabela de Temporalidade Documental](tabela-temporalidade.md):** Prazos de guarda e destinação final de cada tipo de arquivo.
-* 📋 **[Checklist de Auditoria](checklist-auditoria.md):** Modelo operacional para validar a conformidade de novos documentos.
+* [01. Visão da API e Arquitetura](01-visao-da-api)
+* [02. Endpoints e Swagger](02-endpoints-e-swagger)
+* [03. Regras de Negócio e Varredura Zoho](03-regras-de-negocio)
+* [04. Testes da API e Validação do Acervo](04-testes-da-api)
+* [05. CI/CD e Agendamento de Higienização](05-ci-da-api)
+* [06. Plano de Testes de Governança](06-plano-de-testes-da-api)
+* [07. Casos de Teste do Acervo e Zoho](07-casos-de-teste-da-api)
