@@ -90,9 +90,7 @@
 
 ## <span style="color: #1b5e20;">📁 Projetos & Casos Práticos</span>
 
-* 📋 **[Checklist de Auditoria Documental](./docs/checklist-auditoria.md):** Modelo para validação e conformidade de artefatos.
-* 📊 **[Tabela de Temporalidade Documental](./docs/tabela-temporalidade.md):** Mapeamento do ciclo de vida e descarte de dados.
-* 🗂️ **[Gestão e Manutenção de Acervo Documental](./docs/README.md):** Governança documental sob metodologia 5S.
+* 🗂️ **[Gestão e Manutenção de Acervo Documental](./docs/README.md):** Governança documental estruturada sob a metodologia 5S, contendo o checklist de auditoria e a tabela de temporalidade.
 
 ---
 
