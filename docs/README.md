@@ -6,7 +6,7 @@ O projeto estabelece um modelo estruturado para governança, padronização e ma
 
 Documentação de frontend, épicos, diagramas institucionais e artefatos de produto ficam no repositório:
 
-[repositorio-governanca-acervo](https://github.com/seu-usuario/gestao-acervo-documental)
+[menu-portifolo-QA](https://github.com/LeticiaTorquato82/menu-portifolo-QA)
 
 ---
 
