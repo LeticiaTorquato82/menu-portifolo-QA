@@ -26,6 +26,6 @@ Este projeto define as diretrizes, processos e ferramentas necessários para imp
 * [02. Endpoints e Swagger](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/02-endpoints-e-swagger)
 * [03. Regras de Negócio e Varredura Zoho](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/03-regras-de-negocio)
 * [04. Testes da API e Validação do Acervo](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/04-testes-da-api)
-* [05. CI/CD e Agendamento de Higienização](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/05-ci-da-api)
+* [05. CI/CD e Agendamento de Higienização](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/05-ci-cd-e-agendamento-de-higienizacao)
 * [06. Plano de Testes de Governança](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/06-plano-de-testes-da-api)
-* [07. Casos de Teste do Acervo e Zoho](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/07-casos-de-teste-da-api)
+* [07. Casos de Teste do Acervo e Zoho](https://github.com/LeticiaTorquato82/menu-portifolo-QA/wiki/07-estrategia-de-testes-da-api)
